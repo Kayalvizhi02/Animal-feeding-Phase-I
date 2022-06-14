@@ -34,7 +34,7 @@ Select all three animals in the hierarchy and Add Component > Drag the Move Forw
 Edit their speed values and test to see how it looks. Drag all three animals into the Prefabs folder, choosing “Original Prefab”
 
 ## Program:
-## PLAYER CONTROLLER:
+### PLAYER CONTROLLER:
 ```c#
 using System.Collections;
 using System.Collections.Generic;
@@ -72,7 +72,7 @@ public class PlayerController : MonoBehaviour
     }
 }
 ```
-## MOVE FORWARD:
+### MOVE FORWARD:
 ```c#
 using System.Collections;
 using System.Collections.Generic;
@@ -97,6 +97,8 @@ public class MoveForward : MonoBehaviour
 
 
 ## Output:
+
+![img](https://user-images.githubusercontent.com/75413726/173600333-72418c5b-be8c-4d7b-9f48-10e62e789475.png)
 
 ## Result:
 Animal feeding game-Phase-1 using unity is developed successfully.
